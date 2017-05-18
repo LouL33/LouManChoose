@@ -1,0 +1,204 @@
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\ApplicationInsights.config
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\csc.exe
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\csc.exe.config
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\csc.rsp
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\csi.exe
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\csi.rsp
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\System.AppContext.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\System.Collections.Immutable.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\System.IO.FileSystem.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\vbc.exe
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\vbc.exe.config
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\vbc.rsp
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\VBCSCompiler.exe
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\roslyn\VBCSCompiler.exe.config
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\LouManChoose.dll.config
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\LouManChoose.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\LouManChoose.pdb
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Antlr3.Runtime.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\EntityFramework.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\EntityFramework.SqlServer.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.AI.Web.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.AI.WindowsServer.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.ApplicationInsights.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.Owin.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.Google.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.Web.Infrastructure.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Newtonsoft.Json.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Owin.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\System.Net.Http.Formatting.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\System.Web.Helpers.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\System.Web.Http.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\System.Web.Http.WebHost.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\System.Web.Mvc.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\System.Web.Optimization.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\System.Web.Razor.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\System.Web.WebPages.Deployment.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\System.Web.WebPages.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\System.Web.WebPages.Razor.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\WebGrease.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\System.Web.Helpers.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\System.Web.Mvc.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\System.Web.Optimization.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\System.Web.Razor.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\System.Web.WebPages.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\System.Web.WebPages.Deployment.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\System.Web.WebPages.Razor.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Antlr3.Runtime.pdb
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Newtonsoft.Json.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\System.Net.Http.Formatting.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\System.Web.Http.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\System.Web.Http.WebHost.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\EntityFramework.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\EntityFramework.SqlServer.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.Owin.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.Google.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.ApplicationInsights.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.AI.WindowsServer.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\bin\Microsoft.AI.Web.xml
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\obj\Debug\LouManChoose.csprojResolveAssemblyReference.cache
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\obj\Debug\LouManChoose.dll
+c:\users\lou75\onedrive\documents\visual studio 2017\Projects\LouManChoose\LouManChoose\obj\Debug\LouManChoose.pdb
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\ApplicationInsights.config
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\csc.exe
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\csc.exe.config
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\csc.rsp
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\csi.exe
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\csi.rsp
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\System.AppContext.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\vbc.exe
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\vbc.exe.config
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\vbc.rsp
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\LouManChoose.dll.config
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\LouManChoose.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\LouManChoose.pdb
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Antlr3.Runtime.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\EntityFramework.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\EntityFramework.SqlServer.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.AI.Web.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.Owin.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Newtonsoft.Json.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Owin.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\System.Net.Http.Formatting.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\System.Web.Helpers.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\System.Web.Http.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\System.Web.Http.WebHost.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\System.Web.Mvc.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\System.Web.Optimization.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\System.Web.Razor.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\System.Web.WebPages.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\WebGrease.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\System.Web.Helpers.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\System.Web.Mvc.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\System.Web.Optimization.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\System.Web.Razor.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\System.Web.WebPages.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Antlr3.Runtime.pdb
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Newtonsoft.Json.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\System.Net.Http.Formatting.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\System.Web.Http.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\System.Web.Http.WebHost.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\EntityFramework.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\EntityFramework.SqlServer.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.Owin.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.AI.Web.xml
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\obj\Debug\LouManChoose.csprojResolveAssemblyReference.cache
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\obj\Debug\LouManChoose.dll
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\obj\Debug\LouManChoose.pdb
