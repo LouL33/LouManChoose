@@ -199,6 +199,7 @@ C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.AI.Dependency
 C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\bin\Microsoft.AI.Web.xml
-C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\obj\Debug\LouManChoose.csprojResolveAssemblyReference.cache
 C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\obj\Debug\LouManChoose.dll
 C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\obj\Debug\LouManChoose.pdb
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\obj\Debug\LouManChoose.Migrations.InitialCreate.resources
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\obj\Debug\LouManChoose.csproj.GenerateResource.Cache

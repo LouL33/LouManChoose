@@ -29,5 +29,7 @@ namespace LouManChoose.Models
         {
             return new ApplicationDbContext();
         }
+
+        public DbSet<FavRestaurants> Favorites { get; set; }
     }
 }
