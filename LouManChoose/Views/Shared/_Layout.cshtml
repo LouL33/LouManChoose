@@ -17,12 +17,19 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li>@Html.ActionLink("Home", "Index", "Home")</li>                      
+                        <li>@Html.ActionLink("Favorite List", "Index", "FavRestaurants")</li>
+                    </ul>                  
+                </div>
             </div>
             <div class="Logo">
                 <a target="_top" href="/">
                     <img src="http://blog.flamingtext.com/blog/2017/05/15/flamingtext_com_1494871485_945037066.png" class="img-responsive" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com">
                 </a>
             </div>
+            @Html.Partial("_LoginPartial")
         </div>
     </div>
     <p>

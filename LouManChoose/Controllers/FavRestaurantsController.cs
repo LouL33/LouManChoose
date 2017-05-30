@@ -10,6 +10,7 @@ using LouManChoose.Models;
 
 namespace LouManChoose.Controllers
 {
+    [Authorize]
     public class FavRestaurantsController : Controller
     {
         private ApplicationDbContext db = new ApplicationDbContext();

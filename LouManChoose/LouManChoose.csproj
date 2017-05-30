@@ -209,6 +209,10 @@
     <Compile Include="Migrations\201705151959469_InitialCreate.Designer.cs">
       <DependentUpon>201705151959469_InitialCreate.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201705260005240_second.cs" />
+    <Compile Include="Migrations\201705260005240_second.Designer.cs">
+      <DependentUpon>201705260005240_second.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\FavRestaurants.cs" />
@@ -230,6 +234,7 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Scripts\googlegps.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
@@ -301,6 +306,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201705151959469_InitialCreate.resx">
       <DependentUpon>201705151959469_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201705260005240_second.resx">
+      <DependentUpon>201705260005240_second.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
