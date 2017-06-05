@@ -1,0 +1,22 @@
+﻿@model LouManChoose.veiwModels.Result
+
+
+@if (Model != null) { 
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                
+                <h4 class="modal-title">@Model.name</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                          
+                <p><img src="https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=@Model.photos.FirstOrDefault().photo_reference&key=AIzaSyAUmnlcZvvd_b31I8JVPkHyeW-fUkJVbqM" /></p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+    }
