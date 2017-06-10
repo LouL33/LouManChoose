@@ -2,5 +2,33 @@
     ViewBag.Title = "Home Page";
 }
 
+<div class="Logo">
+    <a target="_top" href="/">
+        <img src="http://i.imgur.com/0sVAbHA.png" class="img-responsive" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com">
+    </a>
+</div>
+@Html.Partial("_LoginPartial")
+        </div>
+    </div>
+<p>
+    &nbsp;
+</p>
+
+<p>
+    &nbsp;
+</p>
+
+<div class="button" onclick="button();" data-toggle="modal" data-target="#myModal">
+    <div class="outer">
+        <div class="height">
+            <div class="inner">What To Eat</div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal" id="myModal" role="dialog">
+    @Html.Partial("_selectedLocations")
+</div>
 
 

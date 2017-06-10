@@ -59,6 +59,18 @@ namespace LouManChoose.Controllers
             return View(favRestaurants);
         }
 
+
+        [HttpGet]
+        [ValidateAntiForgeryToken]
+        public static void CoustomCreate([Bind(Include = "Id,Name,Image,Address,UserId")] FavRestaurants favRestaurants)
+        {
+            ApplicationDbContext db2 = new ApplicationDbContext();
+
+
+            db2.Favorites.Add(favRestaurants);
+            db2.SaveChanges();
+        }
+
         // GET: FavRestaurants/Edit/5
         public ActionResult Edit(int? id)
         {
@@ -125,6 +137,12 @@ namespace LouManChoose.Controllers
             base.Dispose(disposing);
         }
 
+        
+        public ActionResult Favorite(int? id)
+        {
+            var myRest = db.Favorites.Find(id);
 
+            myRest.Faveorited = true;
+        }
     }
 }

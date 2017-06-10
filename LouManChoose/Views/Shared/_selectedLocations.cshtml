@@ -9,11 +9,15 @@
                 
                 <h4 class="modal-title">@Model.name</h4>
             </div>
-            <div class="modal-body">
-                <p>
-                          
+            <div class="modal-body">                
                 <p><img src="https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=@Model.photos.FirstOrDefault().photo_reference&key=AIzaSyAUmnlcZvvd_b31I8JVPkHyeW-fUkJVbqM" /></p>
             </div>
+
+            
+            <div class="modal-footer">
+                <a class="btn btn-default" href="https://www.google.com/maps/dir/?api=1&origin=My+Location&destination=@Model.vicinity">Get Direction</a>              
+            </div>
+            
             <div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
             </div>

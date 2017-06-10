@@ -7,6 +7,8 @@ using LouManChoose.veiwModels;
 using System.Net;
 using System.IO;
 using Newtonsoft.Json;
+using LouManChoose.Models;
+using Microsoft.AspNet.Identity;
 
 namespace LouManChoose.Controllers
 {
@@ -44,7 +46,7 @@ namespace LouManChoose.Controllers
 
             using (var reader = new StreamReader(response.GetResponseStream()))
             {
-                rawResponese = reader.ReadToEnd();
+                rawResponese = reader.ReadToEnd(); 
             }
 
             var googleData = JsonConvert.DeserializeObject<RootObject>(rawResponese);
@@ -52,6 +54,13 @@ namespace LouManChoose.Controllers
             Random random = new Random();
             int number = random.Next(0, 20);
             var randomRest = googleData.results[number];
+
+            if (User.Identity.GetUserId() != null)
+            {
+                var randomToSave = new FavRestaurants { Name = randomRest.name, /*Image = randomRest.photos.FirstOrDefault().photo_reference, */Address = randomRest.vicinity, UserId = User.Identity.GetUserId() };
+
+                LouManChoose.Controllers.FavRestaurantsController.CoustomCreate(randomToSave);
+            }
 
 
             return PartialView("_selectedLocations", randomRest);

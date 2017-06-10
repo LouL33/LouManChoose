@@ -213,6 +213,10 @@
     <Compile Include="Migrations\201705260005240_second.Designer.cs">
       <DependentUpon>201705260005240_second.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201706100128202_db save.cs" />
+    <Compile Include="Migrations\201706100128202_db save.Designer.cs">
+      <DependentUpon>201706100128202_db save.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\FavRestaurants.cs" />
@@ -286,7 +290,6 @@
     <Content Include="Views\FavRestaurants\Details.cshtml" />
     <Content Include="Views\FavRestaurants\Edit.cshtml" />
     <Content Include="Views\FavRestaurants\Index.cshtml" />
-    <Content Include="Views\Home\RedButton.cshtml" />
     <Content Include="Views\Shared\_selectedLocations.cshtml" />
   </ItemGroup>
   <ItemGroup>
@@ -313,6 +316,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201705260005240_second.resx">
       <DependentUpon>201705260005240_second.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201706100128202_db save.resx">
+      <DependentUpon>201706100128202_db save.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

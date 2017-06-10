@@ -11,6 +11,7 @@ namespace LouManChoose.Models
         public string Name { get; set; }
         public string Image { get; set; }
         public string Address { get; set; }
+        public string Faveorited { get; set; } 
 
         public string UserId { get; set; }
         public ApplicationUser User { get; set; }
