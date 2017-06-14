@@ -206,3 +206,6 @@ C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\obj\Debug\LouManChoose.cspr
 C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\obj\Debug\LouManChoose.csprojResolveAssemblyReference.cache
 C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\obj\Debug\LouManChoose.Migrations.second.resources
 C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\obj\Debug\LouManChoose.Migrations.dbsave.resources
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\obj\Debug\LouManChoose.Migrations.ForNKey.resources
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\obj\Debug\LouManChoose.Migrations.addedanothercontroller.resources
+C:\Users\Lou75\tiy\week-10\LouManChoose\LouManChoose\obj\Debug\LouManChoose.Migrations.addedlogic.resources

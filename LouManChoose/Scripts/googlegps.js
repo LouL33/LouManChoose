@@ -28,3 +28,23 @@ let button = () => {
         });
     })
 }
+
+// angel was here
+let Favorite = () => {
+         // grab resturrantId from the html for that current selected resturant
+        var _data = {
+            id: $("#locationId").val()
+        }
+        // POST with AJAX back to your new controller
+        $.ajax({
+            url: "api/ActualFavController", 
+            contentType: "application/json",
+            data: JSON.stringify(_data),
+            type: "POST",
+            dataType: "json",
+            success: (newHtml) => {
+                $(".star").toggleClass("glyphicon-star glyphicon-star-empty");
+            }
+        });
+} 
+

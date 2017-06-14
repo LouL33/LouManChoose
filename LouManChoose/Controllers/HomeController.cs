@@ -37,27 +37,30 @@ namespace LouManChoose.Controllers
         [HttpPost]
         public ActionResult RedButton(UserLocation Point)
         {
-            var googleKey = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=AIzaSyAUmnlcZvvd_b31I8JVPkHyeW-fUkJVbqM&radius=5000&location={0},{1}&type=restaurant";
-            var url = string.Format(googleKey, Point.Latitude, Point.Longitude);
+            var randomRest = new Result();
+            do {
+                var googleKey = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=AIzaSyAUmnlcZvvd_b31I8JVPkHyeW-fUkJVbqM&radius=5000&location={0},{1}&type=restaurant";
+                var url = string.Format(googleKey, Point.Latitude, Point.Longitude);
 
-            var request = WebRequest.Create(url);
-            var rawResponese = String.Empty;
-            var response = request.GetResponse();
+                var request = WebRequest.Create(url);
+                var rawResponese = String.Empty;
+                var response = request.GetResponse();
 
-            using (var reader = new StreamReader(response.GetResponseStream()))
-            {
-                rawResponese = reader.ReadToEnd(); 
+                using (var reader = new StreamReader(response.GetResponseStream()))
+                {
+                    rawResponese = reader.ReadToEnd();
+                }
+
+                var googleData = JsonConvert.DeserializeObject<RootObject>(rawResponese);
+
+                Random random = new Random();
+                int number = random.Next(0, 20);
+                randomRest = googleData.results[number];
             }
-
-            var googleData = JsonConvert.DeserializeObject<RootObject>(rawResponese);
-
-            Random random = new Random();
-            int number = random.Next(0, 20);
-            var randomRest = googleData.results[number];
-
+            while (randomRest.photos == null);
             if (User.Identity.GetUserId() != null)
             {
-                var randomToSave = new FavRestaurants { Name = randomRest.name, /*Image = randomRest.photos.FirstOrDefault().photo_reference, */Address = randomRest.vicinity, UserId = User.Identity.GetUserId() };
+                var randomToSave = new FavRestaurants { Name = randomRest.name, /*Image = randomRest.photos.FirstOrDefault().photo_reference, */Address = randomRest.vicinity, UserId = User.Identity.GetUserId(), Faveorited = false, GoogleId = randomRest.id };
 
                 LouManChoose.Controllers.FavRestaurantsController.CoustomCreate(randomToSave);
             }

@@ -7,6 +7,7 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using LouManChoose.Models;
+using Microsoft.AspNet.Identity;
 
 namespace LouManChoose.Controllers
 {
@@ -18,9 +19,14 @@ namespace LouManChoose.Controllers
         // GET: FavRestaurants
         public ActionResult Index()
         {
-            return View(db.Favorites.ToList());
+            var userId = User.Identity.GetUserId();
+            return View(db.Favorites.Where(w => w.UserId == userId).ToList());
         }
-
+        public ActionResult Favorites()
+        {
+            var userId = User.Identity.GetUserId();
+            return View(db.Favorites.Where(w => w.UserId == userId && w.Faveorited).ToList());
+        }
         // GET: FavRestaurants/Details/5
         public ActionResult Details(int? id)
         {
@@ -143,6 +149,9 @@ namespace LouManChoose.Controllers
             var myRest = db.Favorites.Find(id);
 
             myRest.Faveorited = true;
+            db.SaveChanges();
+
+            return RedirectToAction("Index");
         }
     }
 }

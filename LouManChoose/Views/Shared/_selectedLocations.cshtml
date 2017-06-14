@@ -1,26 +1,31 @@
 ﻿@model LouManChoose.veiwModels.Result
 
 
-@if (Model != null) { 
-    <div class="modal-dialog modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal">&times;</button>
-                
-                <h4 class="modal-title">@Model.name</h4>
+@if (Model != null)
+{
+<div class="modal-dialog modal-lg">
+    <div class="modal-content">
+        <div class="modal-header">
+            <div>
+                @* angel was onclick *@
+                <span class="star glyphicon glyphicon-star-empty" onclick="Favorite();"></span>
             </div>
-            <div class="modal-body">                
-                <p><img src="https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=@Model.photos.FirstOrDefault().photo_reference&key=AIzaSyAUmnlcZvvd_b31I8JVPkHyeW-fUkJVbqM" /></p>
-            </div>
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <input type="hidden" id="locationId" value="@Model.id"/>
+            <h4 class="modal-title">@Model.name</h4>
+        </div>
+        <div class="modal-body">
+            <p><img src="https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=@Model.photos.FirstOrDefault().photo_reference&key=AIzaSyAUmnlcZvvd_b31I8JVPkHyeW-fUkJVbqM" /></p>
+        </div>
 
-            
-            <div class="modal-footer">
-                <a class="btn btn-default" href="https://www.google.com/maps/dir/?api=1&origin=My+Location&destination=@Model.vicinity">Get Direction</a>              
-            </div>
-            
-            <div class="modal-footer">
-                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-            </div>
+
+        <div class="modal-footer">
+            <a class="btn btn-default" href="https://www.google.com/maps/dir/?api=1&origin=My+Location&destination=@Model.vicinity">Get Direction</a>
+        </div>
+
+        <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
         </div>
     </div>
-    }
+</div>
+}

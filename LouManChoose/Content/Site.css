@@ -131,3 +131,8 @@ body {
         background: -webkit-linear-gradient(top, #1d7d12 0%,#4fd342 100%); /* Chrome10+,Safari5.1+ */
         background: linear-gradient(top, #1d7d12 0%,#4fd342 100%); /* W3C */
     }
+
+.glyphicon-star {
+    
+    color: gold;
+}
