@@ -8,14 +8,14 @@
         <div class="modal-header">
             <div>
                 @* angel was onclick *@
-                <span class="star glyphicon glyphicon-star-empty" onclick="Favorite();"></span>
+                <span class="star glyphicon glyphicon-star-empty pull-right" onclick="Favorite();"></span>
             </div>
-            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            
             <input type="hidden" id="locationId" value="@Model.id"/>
             <h4 class="modal-title">@Model.name</h4>
         </div>
         <div class="modal-body">
-            <p><img src="https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=@Model.photos.FirstOrDefault().photo_reference&key=AIzaSyAUmnlcZvvd_b31I8JVPkHyeW-fUkJVbqM" /></p>
+            <p><img src="https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=@Model.photos.FirstOrDefault().photo_reference&key=AIzaSyAUmnlcZvvd_b31I8JVPkHyeW-fUkJVbqM" class="img-responsive"/></p>
         </div>
 
 

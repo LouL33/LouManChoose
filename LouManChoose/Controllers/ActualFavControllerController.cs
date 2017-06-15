@@ -21,29 +21,11 @@ namespace LouManChoose.Controllers
             var userid = HttpContext.Current.User.Identity.GetUserId();
             var db = new ApplicationDbContext();
             var post = db.Favorites.FirstOrDefault(f => f.GoogleId == data.id && f.UserId == userid);
-            if (post.Faveorited == false)
-            {
-                post.Faveorited = true;
-            }
-            else
-            {
-                post.Faveorited = false;
-            }
+            post.Faveorited = !post.Faveorited;
                    
             db.SaveChanges();
             return Ok(post);
         }
 
-
-        //[Route("api/ActualFavController/UnFav")]
-        //[HttpPost]
-        //public IHttpActionResult UnFav(int id)
-        //{
-        //    var db = new ApplicationDbContext();
-        //    var post = db.Favorites.FirstOrDefault(f => f.Id == id);
-        //    post.Faveorited = false;
-        //    db.SaveChanges();
-        //    return Ok(post);
-        //}
     }
 }
