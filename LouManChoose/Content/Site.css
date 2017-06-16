@@ -1,12 +1,12 @@
 ﻿body {
     width: 100%;
-    height: 856px;
+    height:auto;
     padding-top: 50px;
     padding-bottom: 20px;
     background-color: #f9f9f4;
-    background-image: url('../Images/whatdoyouwanttoeat.png');
-    background-size: contain;
-    
+    background-size: cover;
+    /*background-repeat: no-repeat;*/
+    background: url('../Images/White-Chocolate-With-Strawbery-Food-Wallpaper-Free-Picture-Download-920098848045.jpg')no-repeat center center fixed;
 }
 
 /* Set padding to keep content from hitting the edges */
@@ -34,6 +34,7 @@ textarea {
         
 }
 
+
 body {
     font-family: Impact;
 }
@@ -42,7 +43,7 @@ body {
     height: 80px;
     width: 180px;
     cursor: pointer;
-    margin: 50px auto;
+    margin: 25em auto;
 }
 
     .button .outer {
@@ -140,4 +141,17 @@ body {
 .glyphicon-star {
     
     color: gold;
+}
+
+.navbar {
+    font-size: 160%;
+}
+
+.index-table {
+    margin-top: 2em;
+}
+
+.well {
+    background: rgba(0, 0, 0, .9);
+    color: #aaa;
 }

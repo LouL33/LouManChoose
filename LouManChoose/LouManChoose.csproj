@@ -248,7 +248,9 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\stock-photo-nice-tasty-piece-of-swiss-cheese-with-holes-on-a-white-background-76780711.jpg" />
     <Content Include="Images\whatdoyouwanttoeat.png" />
+    <Content Include="Images\White-Chocolate-With-Strawbery-Food-Wallpaper-Free-Picture-Download-920098848045.jpg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="ApplicationInsights.config">
