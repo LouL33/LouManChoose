@@ -13,5 +13,5 @@
 ### Additional resources:
     -Google Maps API
 ### Highlights
-![](https://github.com/)
+![](https://github.com/LouManChoose/Docs/readMeStuff.gif)
 
