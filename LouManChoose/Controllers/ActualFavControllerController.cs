@@ -12,6 +12,7 @@ using System.Web.Http;
 
 namespace LouManChoose.Controllers
 {
+    [Authorize]
     public class ActualFavControllerController : ApiController
     {
         // For favoriting restaurants.
