@@ -14,5 +14,4 @@
     -Google Maps API
 ### Highlights
 ![](https://github.com/)
-![](https://github.com/)
-![](https://github.com/)
+
