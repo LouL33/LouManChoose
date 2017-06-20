@@ -1,5 +1,5 @@
 # LouManChoose
-## Urban exploration app for travellers that allows users to contribute. [Check out the site!](http://sherlockurbansleuth.azurewebsites.net/)
+##  [Check out the site!]
 ### This application was created in Visual Studio 2017 and highlights my understanding of:
     -Entity Framework 
     -Javascript (jQuery and Ajax)
@@ -13,6 +13,6 @@
 ### Additional resources:
     -Google Maps API
 ### Highlights
-![](https://github.com/pmaharana/Sherlock/blob/dev/Docs/sherlock1.gif?raw=true)
-![](https://github.com/pmaharana/Sherlock/blob/dev/Docs/sherlock2.gif?raw=true)
-![](https://github.com/pmaharana/Sherlock/blob/dev/Docs/sherlock3.gif?raw=true)
+![](https://github.com/)
+![](https://github.com/)
+![](https://github.com/)
